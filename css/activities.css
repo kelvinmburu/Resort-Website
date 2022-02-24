@@ -12,6 +12,9 @@
     background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("/img/pexels-creative-vix-370984.jpg");
     background-position: center;
     background-size: cover;
+    padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: border-box;
 }
 
 .navbar {
